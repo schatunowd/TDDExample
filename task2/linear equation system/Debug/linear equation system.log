@@ -1,0 +1,4 @@
+﻿  linear equation system.cpp
+C:\Users\eMahines\source\repos\linear equation system\linear equation system\linear equation system.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eMahines\source\repos\linear equation system\linear equation system\linear equation system.cpp(31,20): warning C4018: <: несоответствие типов со знаком и без знака
+  linear equation system.vcxproj -> C:\Users\eMahines\source\repos\linear equation system\Debug\linear equation system.exe

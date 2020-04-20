@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+C:\Users\eMahines\source\repos\linear equation system\linear equation system\Class2.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eMahines\source\repos\linear equation system\linear equation system\Class2.cpp(53,26): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\eMahines\source\repos\linear equation system\Debug\UnitTest2.lib и объект C:\Users\eMahines\source\repos\linear equation system\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\eMahines\source\repos\linear equation system\Debug\UnitTest2.dll
